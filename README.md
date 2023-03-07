@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Brenno-Badini">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenno-Badini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenno-Badini&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
